@@ -2,4 +2,4 @@ language: node_js
 node_js:
     - 4.6.1
 before_script:
-    - "sudo npm i -g jasmine-node"
+    - "sudo npm install -g jasmine-node"
